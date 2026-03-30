@@ -3,7 +3,7 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'K-Beautyブランド | K-Beauty Portal',
   description: 'K-Beautyの最新比較ランキング・口コミ・おすすめ商品',
-  twitter: { card: 'summary_large_image', site: '@beauty_note_j', creator: '@beauty_note_j' },
+  twitter: { card: 'summary_large_image', site: '@beauty_note_j' },
 };
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
