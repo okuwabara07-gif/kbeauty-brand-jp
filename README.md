@@ -1,2 +1,3 @@
 # kbeauty-brand-jp
-K-Beautyブランド
+
+Updated: 2026-04-01
